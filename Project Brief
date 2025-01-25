@@ -1,0 +1,39 @@
+As a cybersecurity analyst, it's essential to develop strong skills in identifying and dissecting phishing attempts. Here's a breakdown of a phishing email analysis I conducted recently, showcasing key red flags and defensive measures.
+
+ANALYSIS
+
+1. Email Sender Name & Content
+📩 Sender Email: "promotions@amzon.com"
+🔴 Red Flag: The domain is subtly misspelt (missing "a" in Amazon). This is a common tactic to mimic legitimate brands.
+
+2. Unfamiliar or Odd Branding
+The email uses a low-quality, inaccurate Amazon Prime logo.
+🔴 Red Flag: Poor branding is a hallmark of phishing attempts.
+
+3. Lack of Signature or Contact Information
+No proper signature or legitimate contact details are included.
+🔴 Red Flag: Professional organisations always provide this information.
+Phishing Email "Header" Analysis
+
+4. Social Engineering Tactics
+🎯 Target Audience:
+The email appears to target all individuals looking for Black Friday deals, grabbing the emotion of FOMO among the recipients. 
+🔴 Red Flag: Emotional Manipulation: Scammers exploit vulnerabilities like FOMO and financial struggles to make offers seem irresistible.
+
+5. Fake Website Features:
+Symantec Review: The URL is flagged as a security risk. (Symantec online review tool)
+🔴 Red Flag: Unrelated Domain: Credit card companies wouldn’t host services on a domain meant for unrelated topics.
+Security Warning: Reputable websites don’t get flagged as suspicious by services like Symantec.
+
+Along with the screenshots below, I have attached a 𝚍̲𝚎̲𝚝̲𝚊̲𝚒̲𝚕̲𝚎̲𝚍̲ ̲𝙿̲𝚑̲𝚒̲𝚜̲𝚑̲𝚒̲𝚗̲𝚐̲ ̲𝙰̲𝚗̲𝚊̲𝚕̲𝚢̲𝚜̲𝚒̲𝚜̲ 𝚛̲𝚎̲𝚙̲𝚘̲𝚛̲𝚝̲(̲𝚒̲𝚗̲𝚌̲𝚕̲𝚞̲𝚍̲𝚒̲𝚗̲𝚐̲ ̲𝚟̲𝚊̲𝚛̲𝚒̲𝚘̲𝚞̲𝚜̲ ̲𝚘̲𝚝̲𝚑̲𝚎̲𝚛̲ ̲𝙱̲𝙾̲𝙳̲𝚈̲ ̲𝚊̲𝚗̲𝚍̲ ̲𝙷̲𝙴̲𝙰̲𝙳̲𝙴̲𝚁̲ ̲𝚊̲𝚗̲𝚊̲𝚕̲𝚢̲𝚜̲𝚎̲𝚜̲) that can be viewed here: https://lnkd.in/emdXc53s
+
+🔴 Pro Tip: Watch for irregular encoding or formatting in headers.
+
+Final Recommendations
+✅ Hover Over Links: Always check URLs before clicking.
+✅ Verify Senders: Confirm legitimacy through official channels.
+✅ Use Tools: Services like VirusTotal, PhishTank, and MXToolbox can flag malicious content.
+✅ Report Phishing: Forward such emails to cybersecurity organisations or your email provider.
+🔑 Remember: Phishing emails exploit urgency, curiosity, and emotion. Always take a moment to verify before acting. If it seems too good to be true, it probably is!
+
+Let’s continue to stay vigilant and make phishing attacks fail 💪!
